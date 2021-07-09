@@ -1,2 +1,6 @@
 # GozemApiTest
-This API should be used to return, the country and timezone info, distance (in km or miles) and the time difference in hours, between two geo locations.
+Instruction for running the project
+
+run the command  'npm run start' and try the api with Postman
+
+Thanks for testing...
