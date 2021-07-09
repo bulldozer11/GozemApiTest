@@ -1,0 +1,22 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "Restful node_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "TSAKPO Yao Elom Emmanuel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "@google/maps": "^1.0.2",
+    "express": "^4.17.1",
+    "geopoint": "^1.0.1",
+    "jshint": "^2.11.0-rc1",
+    "node-geocoder": "^3.25.0"
+  }
+}
