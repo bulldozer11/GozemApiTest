@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@google/maps": "^1.0.2",
-    "express": "^4.17.1",
+    "express": "^4.22.2",
     "geopoint": "^1.0.1",
     "jshint": "^2.11.0-rc1",
     "node-geocoder": "^3.25.0"
